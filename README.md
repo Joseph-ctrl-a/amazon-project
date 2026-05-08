@@ -4,7 +4,7 @@ A fully functional Amazon-like e-commerce web app built with vanilla JavaScript,
 
 ## Background
 
-This was my first real JavaScript project — my first time working with JS at any meaningful scale. Before this, I had only written small scripts; this project was where I got hands-on experience with the things that actually matter when building something larger:
+This was my first real JavaScript project  my first time working with JS at any meaningful scale. Before this, I had only written small scripts; this project was where I got hands-on experience with the things that actually matter when building something larger:
 
 - **File structure** — figuring out how to organize a codebase so it doesn't become a mess
 - **ES6 modules** — importing and exporting across files to keep concerns separated
